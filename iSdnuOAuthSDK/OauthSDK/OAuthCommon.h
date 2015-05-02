@@ -10,8 +10,8 @@
 #define iSdnuOAuthSDK_OAuthCommon_h
 
 
-#define AppKey      @"8a16cd220f691034211035280986c383"
-#define AppSecret   @"cebcec8578d03316b619dea09c36495828203963"
+#define AppKey      @""
+#define AppSecret   @""
 #define CallBackURL @"http://i.sdnu.edu.cn/oauth/index.html"
 // 3.自定义Log
 #ifdef DEBUG

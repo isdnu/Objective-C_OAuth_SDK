@@ -10,6 +10,8 @@
 	<string>iSdnuOAuthSDK</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>738C9B8E7B87EBEFA03694CCDD2AD38020257F32</key>
+		<string>github.com:isdnu/Objective-C_OAuth_SDK.git</string>
 		<key>D4E0F3DAC11C7E68EE3952806D163128424EB9BF</key>
 		<string>github.com:cherish-fan/-OAuth-SDK.git</string>
 	</dict>
@@ -17,15 +19,17 @@
 	<string>iSdnuOAuthSDK.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D4E0F3DAC11C7E68EE3952806D163128424EB9BF</key>
+		<key>738C9B8E7B87EBEFA03694CCDD2AD38020257F32</key>
 		<string>../..</string>
+		<key>D4E0F3DAC11C7E68EE3952806D163128424EB9BF</key>
+		<string>../../../iSdnuOAuthSDK</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>github.com:cherish-fan/-OAuth-SDK.git</string>
+	<string>github.com:isdnu/Objective-C_OAuth_SDK.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D4E0F3DAC11C7E68EE3952806D163128424EB9BF</string>
+	<string>738C9B8E7B87EBEFA03694CCDD2AD38020257F32</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>D4E0F3DAC11C7E68EE3952806D163128424EB9BF</string>
 			<key>IDESourceControlWCCName</key>
 			<string>iSdnuOAuthSDK</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>738C9B8E7B87EBEFA03694CCDD2AD38020257F32</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iSdnuOAuthSDK%E5%89%AF%E6%9C%AC</string>
 		</dict>
 	</array>
 </dict>
