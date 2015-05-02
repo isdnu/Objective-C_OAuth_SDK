@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>995D2ADE-07A7-41B4-850C-2C37A0A5E81A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iSdnuOAuthSDK</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D4E0F3DAC11C7E68EE3952806D163128424EB9BF</key>
+		<string>github.com:cherish-fan/-OAuth-SDK.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iSdnuOAuthSDK.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D4E0F3DAC11C7E68EE3952806D163128424EB9BF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:cherish-fan/-OAuth-SDK.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D4E0F3DAC11C7E68EE3952806D163128424EB9BF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D4E0F3DAC11C7E68EE3952806D163128424EB9BF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iSdnuOAuthSDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>
